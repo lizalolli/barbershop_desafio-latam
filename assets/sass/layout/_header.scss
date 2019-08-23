@@ -1,0 +1,25 @@
+//.header{
+   // padding: 2rem;
+   // padding-right: 0;
+   // background-color: black;
+//}
+
+.logo{
+    width:120px;
+    
+}
+
+.bg-black{
+    background-color: $eerie-black;
+}
+
+.navbar-ruddy li{
+    font-family: $roboto;
+    a{
+    color:$white !important;
+    &:hover{
+        color:$ruddy-pink !important;
+    }
+}
+
+}
